@@ -1,0 +1,9 @@
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\bin\Debug\netstandard2.0\Repositorio.deps.json
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\bin\Debug\netstandard2.0\Repositorio.dll
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\bin\Debug\netstandard2.0\Repositorio.pdb
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\obj\Debug\netstandard2.0\Repositorio.csprojAssemblyReference.cache
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\obj\Debug\netstandard2.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfoInputs.cache
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\obj\Debug\netstandard2.0\Repositorio.AssemblyInfo.cs
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\obj\Debug\netstandard2.0\Repositorio.dll
+C:\Master Certificate Azure\NetCoreGrafos\Repositorio\obj\Debug\netstandard2.0\Repositorio.pdb
